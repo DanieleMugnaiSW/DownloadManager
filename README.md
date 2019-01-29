@@ -20,8 +20,7 @@ After creating a download, a item is added: each item has a name(the file), the 
 
 NB: **Before push the button of each item, select the item.**
 
-When a download is finish is name is ~~Strikethrough ~~	
-~~This was mistaken text~~
+When a download is finish is name is ~~Strikethrough~~
 
  
 
