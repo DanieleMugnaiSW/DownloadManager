@@ -43,7 +43,7 @@ class InputDialog(QDialog):
 class MyWindow(QMainWindow):
     def __init__(self):
         QMainWindow.__init__(self)
-        self.setWindowTitle("Image Visualizer")
+        self.setWindowTitle("Download Manager")
         self.setFixedWidth(800)
         self.setFixedHeight(600)
         self.tb = self.addToolBar("edit")
