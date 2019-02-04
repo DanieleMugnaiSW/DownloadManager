@@ -24,11 +24,11 @@ The Download allow to start a download from a valid url and select the folder wh
 
 
 At the top there is toolbar that permits to Create a New Download, Pause all download, Delete All download.
-After creating a download, a item is added: each item has a name(the file), the size, a progress bar and two button the permits to pause and delete the selected download. 
+After creating a download, an item is added: each item has a name(the file), the size, a progress bar and two button the permits to pause and delete the selected download. 
 
 NB: **Before push the button of each item, select the item.**
 
-When a download is finish is name is ~~Strikethrough~~
+When a download is finished is name is ~~Strikethrough~~
 
  
 
